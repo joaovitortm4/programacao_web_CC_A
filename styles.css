@@ -13,8 +13,9 @@
 }
 
 .centered-div {
-    width: 80%; /* Defina a largura conforme necessário */
-    background-color: rgb(163, 128, 128);
+    width: 20%; /* Defina a largura conforme necessário */
+    height: 35%;
+    background-color: rgb(109, 108, 146);
     padding: 20px;
     text-align: center;
     border-radius: 15px;
